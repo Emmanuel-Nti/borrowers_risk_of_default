@@ -1,9 +1,9 @@
-# borrowers_risk_of_default
-As a data analyst at a bank, I am tasked to prepare a report for a bank’s loan division. The main objective of the project is to find out if a customer’s marital status, loan purpose, income level, and number of children has an impact on whether they will default on a loan. My bank already has some data on customers’ credit worthiness.
+# Project Mentored by Practicum100 by Yandex
 
-## Libraries and Data
-- I used pandas and matplotlib.pyplot libraries
-- Practicum by Yandex provided the data
+| Project name | Description | Libraries used | Source of Data |
+| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| [Borrowers' Risk of Default](borrowers_risk_of_default) | As a data analyst at a bank, I am tasked to prepare a report for a bank’s loan division. The main objective of the project is to find out if a customer’s marital status, loan purpose, income level, and number of children has an impact on whether they will default on a loan. My bank already has some data on customers’ credit worthiness. | *pandas*, *matplotlib.pyplot* | Practicum by Yandex |
+
 
 ## Description of Data
 - `children`: the number of children in the family
